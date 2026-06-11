@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28825459/README.md)
 # sigma-wazuh-converter
 
 Convert [Sigma](https://github.com/SigmaHQ/sigma) detection rules to [Wazuh](https://wazuh.com/) custom rules (XML) — bridging the gap where no official backend exists.
